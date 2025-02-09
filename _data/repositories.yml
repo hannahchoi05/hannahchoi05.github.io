@@ -4,6 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - hannahchoi05.github.io
-  - SilentSignal
-  - TeamEvergreens
+  - hannahchoi05/hannahchoi05.github.io
+  - hannahchoi05/SilentSignal
+  - hannahchoi05/TeamEvergreens

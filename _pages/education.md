@@ -4,7 +4,7 @@ permalink: /education/
 title: education
 description: relevant coursework at princeton
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 <h3>Computer Science</h3>

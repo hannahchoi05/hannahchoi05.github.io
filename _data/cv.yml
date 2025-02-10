@@ -17,7 +17,7 @@
       description:
         - Major Computer Science (COS)
         - Minor Finance, Statistics and Machine Learning
-        
+
 - title: Experience
   type: time_table
   contents:
@@ -33,7 +33,6 @@
       description:
         - Grade and provide feedback to students' programming assignments and exams
         - Work alongside Dr. Alan Kaplan to help students with active learning exercises and answer questions during precept
-
 # - title: Open Source Projects
 #  type: time_table
 #  contents:

@@ -15,15 +15,11 @@ more_info: >
   <p>123 your address street</p>
   <p>Your City, State 12345</p>
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true
-  limit: 5
-
 latest_posts:
   enabled: true
   scrollable: true
   limit: 3
+  
 ---
 
 Hi! I'm Hannah, an undergraduate student at Princeton University majoring in Computer Science. I'm pursuing minors in Finance and Statistics and Machine Learning. Right now, I’m particularly interested in machine learning and data science. I'm graduating in May 2027 and am looking for internship roles.

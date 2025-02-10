@@ -4,34 +4,35 @@
     - name: Full Name
       value: Hannah Choi
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2005-09-20
     - name: Languages
-      value: English, German
+      value: English Korean
 
 - title: Education
   type: time_table
   contents:
     - title: Bachelor of Science in Engineering (B.S.E.)
       institution: Princeton University
-      year: 2023 - 2027
+      year: 2027
       description:
-        - Major - Computer Science (COS)
-        - Minor - Finance, Statistics and Machine Learning
+        - Major Computer Science (COS)
+        - Minor Finance, Statistics and Machine Learning
+        
 - title: Experience
   type: time_table
   contents:
     - title: Apps Team Software Engineer
       institution: Hoagie Club
-      year: Sep. 2024 - Present
+      year: 2024
       description:
         - Collaborated with Apps Team to design and develop innovative campus applications, enhancing student engagement and campus life
         - Contributed to HoagiePlan, an application to help Princeton students plan out their courses, which accumulated over a thousand users
     - title: Undergraduate Course Assistant
       institution: Princeton University Computer Science Department
-      year: Sep. 2024 - Present
+      year: 2024
       description:
         - Grade and provide feedback to students' programming assignments and exams
-        - Work alongside Dr. Alan Kaplan to help students on active learning exercises and answer questions during precept
+        - Work alongside Dr. Alan Kaplan to help students with active learning exercises and answer questions during precept
 
 # - title: Open Source Projects
 #  type: time_table
